@@ -6,7 +6,7 @@ namespace While_Uppgift
     {
         static void Main(string[] args)
         {
-            
+            // Fianl Version
             bool running = true;
             char[] allInputs = new char[100];
             int[] theAmount = new int[100];
